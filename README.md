@@ -29,7 +29,6 @@ This project introduces novel strategies to enhance the creative writing capabil
 
 *   **📊 Strong Alignment with Human Judgment:** We conducted comprehensive experiments with both automated and human evaluations. Our results show that the automated evaluation frameworks (both the Multi-Agent system and the Adversarial Judge) exhibit a strong correlation (over 70-80% agreement) with human judgments, validating their effectiveness in assessing subjective qualities like creativity and emotional resonance.
 
-*   **🔧 Open-Sourced Code and Reproducibility:** We provide the full implementation details, including training scripts and configurations for the GRPO algorithm, allowing for the complete reproduction of our experimental results. *(You can add this point if you are indeed open-sourcing the code.)*
 
 ## Getting Started 🔥
 
