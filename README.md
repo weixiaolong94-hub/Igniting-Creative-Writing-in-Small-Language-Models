@@ -8,11 +8,16 @@ versus Multi-Agent Refined Rewards</h2>
 <div align="center">
   
 </div>
-This is the official repository for the paper "Igniting Creative Writing in Small Language Models: LLM-as-a-Judge
-versus Multi-Agent Refined Rewards".
+
+**EMNLP 2025 • Main Conference**
+
+This is the official repository for the paper "[Igniting Creative Writing in Small Language Models: LLM-as-a-Judge
+versus Multi-Agent Refined Rewards](http://arxiv.org/abs/2508.21476)".
+Our paper was accepted at the **EMNLP 2025 Main Conference**.
+
 
 <div align="center">
-    <img src="./figure/paper.jpg" width="80%" height="auto" />
+    <img src="./figure/paper.jpg" width="90%" height="auto" />
 </div>
 
 ## Key Features 
@@ -194,3 +199,18 @@ This is the final stage where we optimize the SFT model from **Step 3** using th
 
 
 ---
+
+## Citation
+If you find the project helpful, please cite:
+*   [Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards](http://arxiv.org/abs/2508.21476)
+```bash
+@misc{wei2025ignitingcreativewritingsmall,
+      title={Igniting Creative Writing in Small Language Models: LLM-as-a-Judge versus Multi-Agent Refined Rewards}, 
+      author={Xiaolong Wei and Bo Lu and Xingyu Zhang and Zhejun Zhao and Dongdong Shen and Long Xia and Dawei Yin},
+      year={2025},
+      eprint={2508.21476},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.21476}, 
+}
+```
